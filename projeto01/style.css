@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+body {
+    background-image: linear-gradient(90deg, #FFCB9A, #D8B08C);
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 15px #bb9571d7;
+}
+
+h1 {
+    font-size: 1.5em;
+    text-align: center;
+    color: #2C3532;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: #0F6466;
+}
+
+p {
+    font-family: 'Great Vibes', cursive;
+    text-align: justify;
+    text-decoration: underline;
+
+}
+
